@@ -4,7 +4,7 @@ title: About
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundSize: full
     text: >-
       ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
