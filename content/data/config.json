@@ -65,7 +65,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "+55 62 00000-0000",
-            "phoneAltText": "meu relefone",
+            "phoneAltText": "",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "meu e-mail",
             "address": "",
