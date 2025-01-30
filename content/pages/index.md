@@ -7,9 +7,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Oi, sou o JoãoSou um designer com 6 anos de experiência atuando em
-      diferentes áreas, incluindo design gráfico, design de marcas, gravação e
-      edição de materiais audiovisuais,
+      Oi, sou o Joãoum designer com 6 anos de experiência atuando em diferentes
+      áreas, incluindo design gráfico, design de marcas, gravação e edição de
+      materiais audiovisuais,
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
